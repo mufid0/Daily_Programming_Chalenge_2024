@@ -1,8 +1,24 @@
 # 🧠 Python Coding Practice – Array & String Problems
 
+![GitHub stars](https://img.shields.io/github/stars/<your-username>/<repo-name>?style=social)
+![GitHub forks](https://img.shields.io/github/forks/<your-username>/<repo-name>?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/<your-username>/<repo-name>)
+![GitHub last commit](https://img.shields.io/github/last-commit/<your-username>/<repo-name>)
+![GitHub issues](https://img.shields.io/github/issues/<your-username>/<repo-name>)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
 This repository contains solutions to various **Python coding problems**, focusing on **arrays, strings, and common algorithmic challenges**.
 
 The problems are organized **day-wise**, making it easy to track progress, build consistency, and strengthen problem-solving skills over time.
+
+---
+
+## 📊 Repository Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>\&show_icons=true\&theme=tokyonight)
 
 ---
 
@@ -110,13 +126,13 @@ The problems are organized **day-wise**, making it easy to track progress, build
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/<your-username>/<repo-name>.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd <repository-folder>
+cd <repo-name>
 ```
 
 3. Run any Python file:
@@ -124,8 +140,6 @@ cd <repository-folder>
 ```bash
 python "Sort_an_Array (Day 1).py"
 ```
-
-4. Modify inputs inside the files to test different scenarios.
 
 ---
 
@@ -142,26 +156,23 @@ python "Sort_an_Array (Day 1).py"
 
 Contributions are welcome!
 
-You can:
-
 * Add new problem solutions
-* Improve existing implementations
-* Optimize time/space complexity
+* Improve implementations
+* Optimize performance
 * Enhance documentation
 
 ---
 
-## ⭐ Future Improvements
+## ⭐ Support
 
-* Add optimized vs brute-force approaches
-* Include time & space complexity in each file
-* Add test cases for each problem
-* Expand to more advanced topics
+If you find this repository helpful:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 🧑‍💻 Contribute
 
 ---
 
 ## 📌 Note
 
 This repository is part of a continuous learning journey in **Data Structures & Algorithms using Python**.
-Consistency and practice are the primary goals.
-
